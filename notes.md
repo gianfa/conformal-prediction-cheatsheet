@@ -4,8 +4,9 @@ This document contains additional details, future updates, and extended discussi
 
 ## 📝 Planned Improvements
 
-- [ ] Add Jacknife+
+- [x] Add Jacknife+
 - [ ] Add CV+
+- [ ] Add Classification Cheat Sheet
 - [ ] Improve layout and readability of the PDF
 - [ ] Expand on use cases and implementation examples
 
@@ -19,6 +20,7 @@ This document contains additional details, future updates, and extended discussi
 | **Mondrian CP**   | Yes        | Yes       | Vovk et al. (2003) - *Mondrian Confidence Machines* |
 | **Conformalized Quantile Regression**   | No        | Yes       | Romano et al. (2019) - *Conformalized Quantile Regression* |
 | **Venn-Abers Predictors**           | Yes        | No       | Vovk & Petej (2012) - *Venn–Abers Predictors* |
+| **Jackknife+**    | Yes        | Yes       | Barber & Candès (2021) - *Venn–Abers Predictors* |
 
 **Table 1**: Types of Conformal Prediction for Classification and Regression  
 
